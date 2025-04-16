@@ -5,5 +5,20 @@ img{
     height: 350px;
     width: 350px;
     border: 5px solid whitesmoke;
-    margin-left: 35%;
+    margin-left: 36%;
+}
+h1{
+    color:  #ff6666;
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+}
+p{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
 }
