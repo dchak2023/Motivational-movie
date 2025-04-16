@@ -35,7 +35,12 @@ The project was built step-by-step with the following key milestones (based on c
 
 ---
 🚀 How to View the Webpage
-Clone the repository:
+
+## 🌐 Live Demo
+
+Check out the live version here: [Motivational Picture](https://dchak2023.github.io/Motivational-movie/)
+
+## Clone the repository:
 
 git clone https://github.com/dchak2023/Motivational-movie.git
 
